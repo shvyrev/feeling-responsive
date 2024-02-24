@@ -1,0 +1,5 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.fontFamily": "'Cascadia Code','Droid Sans Mono', 'monospace', monospace",
+    "files.autoSaveDelay": 100
+}
